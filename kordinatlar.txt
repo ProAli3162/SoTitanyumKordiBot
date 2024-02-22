@@ -1,0 +1,184 @@
+GTA_Kordi03
+sancak -9000 -26000
+yakamoz 12000 -25000
+avrasya -12000 -4500
+pruva -7000 -23000
+velena -10000 6000
+flador 8000 -21500
+astra -19000 3000
+GTA_Kordi01
+sancak -24400 -7500
+yakamoz 9400 -25500
+avrasya 21900 -1000
+pruva -11200 12300
+velena 7700 4400
+flador 4000 7000
+astra 8000 10400 
+hedstrom
+sancak 22500 64 -13700
+yakamoz 3900 64 -20000
+avrasya 0 64 -20000
+pruva 2500 63 -6400
+velena 19000 64 -24100
+flador -24200 64 -22000
+astra 15400 64 25100
+GTAVII
+sancak 18400 64 -17100
+yakamoz -20700 64 10700
+avrasya -17700 70 -9800
+pruva 28300 64 5000
+velena -17000 64 -4100
+flador 15800 64 16300
+astra 22100 64 -25700
+GTAVI
+sancak 15200 64 -11250
+yakamoz -11500 64 3800
+avrasya 3300 64 -8500
+pruva -7000 64 -13700
+velena 4500 64 -16500
+flador -16200 64 -6500
+astra 7500 64 8300
+sF4V5
+sancak -273 64 -5556
+yakamoz -27279 64 7684
+avrasya -7267 64 -16447
+pruva -2257 64 24517
+velena -13421 64 -4799
+flador 19527 64 -18352
+astra 9496 64 7906
+sf4v6
+sancak 1818 64 7074
+yakamoz -5807 64 -6327
+avrasya -8170 64 22279
+pruva -401 64 16831
+velena 2828 64 19041
+flador 27080 64 1178
+astra 14771 64 -8505
+pr0ahmet1
+sancak 9944 64 6386
+yakamoz 15737 3407
+avrasya 19957 -5126
+pruva -10072 -8002
+velena 25050 10569
+flador 3085 22649
+astra -23331 -10014
+pr0ahmet2
+sancak -9622 -19631
+yakamoz 8535 3723
+avrasya -18500 -19000
+pruva -24804 24151
+velena 11232 -17942
+flador 2870 9085
+astra -7226 23907
+pr0ahmet5
+sancak 9313 -14621
+yakamoz 22552 -27966
+avrasya -5501 -12292
+pruva -19652 27615
+velena -1546 26438
+flador -26156 -16229
+astra -3828 24408
+xxbabapro2012xx
+sancak -25906 -5462
+yakamoz -17062 24996
+avrasya -12330 -12803
+pruva 914 6234
+velena -23225 12457
+flador 14983 -24695
+astra 2389 -13445
+xxbabapro2013xx 
+sancak -2653 -1870
+yakamoz -25870 2155
+avrasya -18202 -9614
+pruva -853 -732
+velena -11088 -1575
+flador -5770 -24454
+astra -10785 19165
+xxbabapro2014xx
+sancak 3174 -22577
+yakamoz -22507 16926
+avrasya 19874 -15405
+pruva 23446 -1441
+velena 22613 -3526
+flador 23854 26916
+astra -14440 -9753
+xxbabapro2015xx
+sancak -26069 139
+yakamoz 24402 14988
+avrasya 22258 27923
+pruva -8878 4679
+velena 14579 12211
+flador -20850 16063
+astra -515 -4800
+xxbabapro2016xx 
+sancak 11904 -9203
+yakamoz 22027 2671
+avrasya 19552 -21099
+pruva -8878 4679
+velena -27356 14604
+flador 15251 6635
+astra 18487 -5724
+ItzYasul_Hz
+sancak -28000 64 19000
+yakamoz 3000 64 26000
+avrasya 25000 64 5000
+pruva 23000 64 -17000
+velena -23000 64 -24000
+flador -26000 64 -14000
+astra -11000 64 8000
+GTA_Kordi02
+sancak 25000 -25200
+yakamoz 13500 11500
+avrasya -2500 -10500
+pruva 15600 22600
+velena -20600 -300
+flador -5000 -9800
+astra 13050 -7500
+GTA_Kordi04
+sancak 500 -24000
+yakamoz 22000 4000
+avrasya -400 23000
+pruva 2000 17000
+velena -25500 9500
+flador -6000 19000
+astra 7500 0
+GTA_Kordi05
+sancak 5500 21000
+yakamoz 5500 5000
+avrasya -9000 -18000
+pruva 25500 16500
+velena -5000 -27000
+flador -15000 -24000
+astra -11000 -5000
+GTA_Kordi06
+sancak -19500 -2500
+yakamoz 7000 16500
+avrasya -10000 7500
+pruva 11500 2500
+velena -10500 -6000
+flador 4000 7000
+astra -26000 -16500
+GTA_Kordi07
+sancak 15500 -9500
+yakamoz 23500 15000
+avrasya -6500 -26000
+pruva 23500 -2000
+velena -16500 -24000
+flador -10000 -2500
+astra 25500 2000
+GTA_Kordi08
+sancak -24000 -19000
+yakamoz -1000 -19000
+avrasya 5000 -7500
+pruva -20000 -27000
+velena -1000 19000
+flador -25000 0
+astra -6000 18000
+GTA_Kordi09
+sancak 7500 4500
+yakamoz 8000 17000
+avrasya 27000 1000
+pruva 20000 28000
+velena 27500 24000
+flador 4000 7000
+astra 18500 3000
